@@ -8,7 +8,7 @@ fn main() {
     };
     let mut LoveMiku = Miku {
         name: String::from("LoveMiku"),
-        count: String::from("15751283881"),
+        count: String::from("1234567"),
         active: true,
         nonce: 10000,
     };
@@ -28,7 +28,7 @@ fn main() {
     println!("{}", user1.name);
 
     let user2 = Miku {
-        name: String::from("yankai"),
+        name: String::from("gyhfg"),
         ..user1
     };
     println!("{} {}", user2.name, user2.count);
