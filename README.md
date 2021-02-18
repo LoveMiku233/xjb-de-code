@@ -1,4 +1,4 @@
-![Miku](miku_logo.jpg)
+![Miku](miku_logo.png)
 ##是什么?
 自学过程中写的代码，练习GitHub使用方法
 
