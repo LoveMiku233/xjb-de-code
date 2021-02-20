@@ -3,7 +3,7 @@ use std::collections::HashMap;
 fn main() {
     let mut miku: HashMap<String, i32> = HashMap::new();
     miku.insert(String::from("ten"), 10);
-    miku.insert(String::from("two ten"), 20);
+    miku.insert(String::from("three ten"), 20);
 
     let keys = vec![String::from("ten"), String::from("two ten")];
     let values = vec![20, 30];
